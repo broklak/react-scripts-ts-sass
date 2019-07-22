@@ -1,8 +1,8 @@
 {
-  "name": "broklak/react-scripts-ts-sass",
+  "name": "@broklak/react-scripts-ts-sass",
   "version": "2.15.2",
   "description": "Configuration and scripts for Create React App with support for TypeScript and Sass.",
-  "repository": "petejkim/create-react-app-typescript-sass",
+  "repository": "broklak/create-react-app-typescript-sass",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"
